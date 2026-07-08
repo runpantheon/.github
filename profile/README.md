@@ -2,31 +2,31 @@
 
 # Pantheon
 
-**The CRM your team actually lives in.**
+### The relationship OS that runs itself.
 
-Pantheon turns everyday conversations into a system of record — contacts, pipelines, and follow-ups that stay in sync without anyone switching apps or copy-pasting into a spreadsheet.
+Your chats become a CRM that updates itself — native across **Telegram**, **WhatsApp**, and **iMessage**. Contacts, pipelines, and follow-ups stay current without anyone leaving the conversation.
 
-[Website](https://pantheon.run) · [Contact](mailto:contact@pantheon.run)
+[Website](https://pantheon.run) · [X](https://x.com/runpantheon) · [LinkedIn](https://www.linkedin.com/company/runpantheon) · [Community](https://t.me/+kI_2JfOEgNwxM2M5)
 
 </div>
 
 ---
 
-### What it is
+### Meet Milo
 
-Pantheon is a customer relationship platform built for teams that run on direct, real-time conversation. Deals move fast, context lives in threads, and the last thing anyone wants is another tab. Pantheon meets your team where the work already happens and quietly keeps the record straight.
+**Milo** is your assistant inside the chat — drafting replies, remembering context, and turning everyday conversations into structured relationship data. No new app to learn, no copy-pasting into a spreadsheet.
 
 ### What you get
 
-- **A living contact graph** — every person, company, and relationship in one place, updated as you talk.
-- **Pipelines that keep themselves current** — stages, owners, and next steps without manual data entry.
-- **Milo** — an assistant that drafts replies, surfaces context, and handles the busywork so your team can focus on the relationship.
-- **Built to integrate** — a clean API for connecting Pantheon to the rest of your stack.
+- **A CRM that updates itself** — every contact, company, and deal stays current from the conversations you're already having.
+- **One graph across channels** — Telegram, WhatsApp, and iMessage in a single relationship system of record.
+- **Milo, your assistant** — smart replies, context recall, and the busywork handled.
+- **Built to connect** — a developer API and MCP server for wiring Pantheon into the rest of your stack.
 
 ### Get in touch
 
-Curious, or want a look? Reach us at **[contact@pantheon.run](mailto:contact@pantheon.run)** or visit **[pantheon.run](https://pantheon.run)**.
+**[pantheon.run](https://pantheon.run)** · **[enterprise@pantheon.run](mailto:enterprise@pantheon.run)**
 
 <div align="center">
-<sub>© Pantheon. All rights reserved.</sub>
+<sub>© 2026 Pantheon Labs. All rights reserved.</sub>
 </div>
