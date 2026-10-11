@@ -23,6 +23,17 @@ Your chats become a CRM that updates itself — native across **Telegram**, **Wh
 - **Milo, your assistant** — smart replies, context recall, and the busywork handled.
 - **Built to connect** — a developer API and MCP server for wiring Pantheon into the rest of your stack.
 
+### Open source
+
+**[ltui](https://github.com/runpantheon/ltui)** — a fast, beautiful TUI for Linear.
+
+<a href="https://star-history.com/#runpantheon/ltui&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=runpantheon/ltui&type=Date&theme=dark" />
+    <img alt="ltui star history" src="https://api.star-history.com/svg?repos=runpantheon/ltui&type=Date" width="420" />
+  </picture>
+</a>
+
 ### Get in touch
 
 **[pantheon.run](https://pantheon.run)** · **[enterprise@pantheon.run](mailto:enterprise@pantheon.run)**
