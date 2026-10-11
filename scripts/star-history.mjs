@@ -2,6 +2,10 @@
 // to profile/stars.svg and profile/stars-dark.svg. Zero dependencies (Node 20+).
 //
 //   GITHUB_TOKEN=... node scripts/star-history.mjs
+//
+// In Actions this needs the STARS_TOKEN secret: the built-in GITHUB_TOKEN is
+// scoped to this repo and gets 403 on other repos' stargazers, and the
+// stargazers-with-timestamps endpoint rejects anonymous requests.
 
 import { writeFileSync } from "node:fs";
 
