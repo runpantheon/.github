@@ -25,14 +25,14 @@ Your chats become a CRM that updates itself — native across **Telegram**, **Wh
 
 ### Open source
 
-**[ltui](https://github.com/runpantheon/ltui)** — a fast, beautiful TUI for Linear.
-
-<a href="https://star-history.com/#runpantheon/ltui&Date">
+<a href="https://github.com/orgs/runpantheon/repositories">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=runpantheon/ltui&type=Date&theme=dark" />
-    <img alt="ltui star history" src="https://api.star-history.com/svg?repos=runpantheon/ltui&type=Date" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/runpantheon/.github/main/profile/stars-dark.svg" />
+    <img alt="GitHub stars across runpantheon over time" src="https://raw.githubusercontent.com/runpantheon/.github/main/profile/stars.svg" width="100%" />
   </picture>
 </a>
+
+**[ltui](https://github.com/runpantheon/ltui)** — a fast, beautiful TUI for Linear.
 
 ### Get in touch
 
