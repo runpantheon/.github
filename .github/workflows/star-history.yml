@@ -22,7 +22,7 @@ jobs:
           node-version: 20
       - run: node scripts/star-history.mjs
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.STARS_TOKEN || secrets.GITHUB_TOKEN }}
       - name: Commit if changed
         run: |
           git add profile/stars.svg profile/stars-dark.svg
