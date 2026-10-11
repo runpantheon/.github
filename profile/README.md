@@ -4,7 +4,7 @@
 
 # Pantheon
 
-<sub>the relationship OS that runs itself</sub>
+<sub>The relationship OS that runs itself</sub>
 
 <br>
 
@@ -13,27 +13,35 @@ Contacts, pipelines and follow-ups stay current without anyone leaving the conve
 
 <sub>
 <a href="https://pantheon.run">pantheon.run</a> &nbsp;·&nbsp;
-<a href="https://x.com/runpantheon">x</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/company/runpantheon">linkedin</a> &nbsp;·&nbsp;
-<a href="https://t.me/+kI_2JfOEgNwxM2M5">community</a>
+<a href="https://x.com/runpantheon">X</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/company/runpantheon">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://t.me/+kI_2JfOEgNwxM2M5">Community</a>
 </sub>
 
 </div>
 
 <br>
 
+<div align="center">
+
+## What Pantheon does
+
+<sub>Your conversations, turned into a relationship system of record</sub>
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**a CRM that updates itself**<br>
-<sub>every contact, company and deal stays current from the conversations you're already having</sub>
+**A CRM that updates itself**<br>
+<sub>Every contact, company and deal stays current from the conversations you're already having.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**one graph across channels**<br>
-<sub>Telegram, WhatsApp and iMessage in a single relationship system of record</sub>
+**One graph across channels**<br>
+<sub>Telegram, WhatsApp and iMessage in a single relationship system of record.</sub>
 
 </td>
 </tr>
@@ -41,13 +49,13 @@ Contacts, pipelines and follow-ups stay current without anyone leaving the conve
 <td width="50%" valign="top">
 
 **Milo, your assistant**<br>
-<sub>drafts replies, remembers context and turns everyday conversations into structured relationship data</sub>
+<sub>Drafts replies, remembers context and turns everyday conversations into structured relationship data.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**built to connect**<br>
-<sub>a developer API and MCP server for wiring Pantheon into the rest of your stack</sub>
+**Built to connect**<br>
+<sub>A developer API and MCP server for wiring Pantheon into the rest of your stack.</sub>
 
 </td>
 </tr>
@@ -57,15 +65,27 @@ Contacts, pipelines and follow-ups stay current without anyone leaving the conve
 
 <div align="center">
 
-## open source
+## Open source
 
-<sub>fast, beautiful terminal tools for the trackers your team already lives in</sub>
+<sub>Tools we build in the open, free to use</sub>
+
+<br><br>
+
+### ltui
+
+<sub>Linear in your terminal: status-grouped tickets, instant startup, full keyboard and mouse</sub>
 
 <br><br>
 
 <a href="https://github.com/runpantheon/ltui">
   <img src="https://raw.githubusercontent.com/runpantheon/ltui/main/ltui/assets/hero.png" alt="ltui, a terminal UI for Linear" width="100%" />
 </a>
+
+<br><br>
+
+### The tracker suite
+
+<sub>The same fast terminal UI for each tracker your team uses</sub>
 
 </div>
 
@@ -75,25 +95,25 @@ Contacts, pipelines and follow-ups stay current without anyone leaving the conve
 <a href="https://github.com/runpantheon/ltui/tree/main/ltui"><img src="https://raw.githubusercontent.com/runpantheon/ltui/main/ltui/assets/list.png" alt="ltui" width="100%" /></a>
 <br>
 <b>◐ ltui</b><br>
-<sub>Linear</sub>
+<sub>for Linear</sub>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="https://github.com/runpantheon/ltui/tree/main/jtui"><img src="https://raw.githubusercontent.com/runpantheon/ltui/main/jtui/assets/hero.png" alt="jtui" width="100%" /></a>
 <br>
 <b>◑ jtui</b><br>
-<sub>Jira</sub>
+<sub>for Jira</sub>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="https://github.com/runpantheon/ltui/tree/main/sctui"><img src="https://raw.githubusercontent.com/runpantheon/ltui/main/sctui/assets/hero.png" alt="sctui" width="100%" /></a>
 <br>
 <b>◐ sctui</b><br>
-<sub>Shortcut</sub>
+<sub>for Shortcut</sub>
 </td>
 </tr>
 </table>
 
 <div align="center">
-<sub>status-grouped tickets · instant startup · full keyboard and mouse · linux, macOS and windows</sub>
+<sub>Runs on Linux, macOS and Windows. Install one with:</sub>
 </div>
 
 ```sh
@@ -101,6 +121,14 @@ pipx install "git+https://github.com/runpantheon/ltui#subdirectory=ltui"    # or
 ```
 
 <br>
+
+<div align="center">
+
+### ricekit
+
+<sub>The design system behind the suite</sub>
+
+</div>
 
 <table>
 <tr>
@@ -110,13 +138,21 @@ pipx install "git+https://github.com/runpantheon/ltui#subdirectory=ltui"    # or
 <td width="55%" valign="middle">
 
 **🍚 [ricekit](https://github.com/Gheat1/ricekit)**<br>
-<sub>the design system behind the suite: themes, widgets, modals, icons and the design rules for building a fast, clean <a href="https://github.com/Textualize/textual">Textual</a> app. by <a href="https://github.com/Gheat1">@Gheat1</a></sub>
+<sub>Themes, widgets, modals, icons and the design rules for building a fast, clean <a href="https://github.com/Textualize/textual">Textual</a> app. By <a href="https://github.com/Gheat1">@Gheat1</a>.</sub>
 
 </td>
 </tr>
 </table>
 
 <br>
+
+<div align="center">
+
+### Star history
+
+<sub>GitHub stars across runpantheon's public repositories</sub>
+
+</div>
 
 <a href="https://github.com/orgs/runpantheon/repositories">
   <picture>
@@ -129,10 +165,14 @@ pipx install "git+https://github.com/runpantheon/ltui#subdirectory=ltui"    # or
 
 <div align="center">
 
-<sub>
+## Get in touch
+
+<sub>For teams and enterprise</sub>
+
+<br>
+
 <a href="https://pantheon.run">pantheon.run</a> &nbsp;·&nbsp;
 <a href="mailto:enterprise@pantheon.run">enterprise@pantheon.run</a>
-</sub>
 
 <br><br>
 
