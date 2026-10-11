@@ -30,7 +30,7 @@ Your chats become a CRM that updates itself — native across **Telegram**, **Wh
 <a href="https://star-history.com/#runpantheon/ltui&Date">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=runpantheon/ltui&type=Date&theme=dark" />
-    <img alt="ltui star history" src="https://api.star-history.com/svg?repos=runpantheon/ltui&type=Date" width="420" />
+    <img alt="ltui star history" src="https://api.star-history.com/svg?repos=runpantheon/ltui&type=Date" width="100%" />
   </picture>
 </a>
 
