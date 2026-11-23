@@ -1,15 +1,11 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/301452439?v=4" width="72" alt="Pantheon" />
+<a href="https://pantheon.run"><img src="https://raw.githubusercontent.com/runpantheon/.github/main/profile/banner.svg" alt="Pantheon: the unified inbox and CRM for Telegram, WhatsApp, iMessage and X/Twitter" width="100%" /></a>
 
-# Pantheon
+<br><br>
 
-**The Unified Inbox & CRM** · Telegram, WhatsApp, iMessage & X/Twitter
-
-<br>
-
-Your chats become a CRM that updates itself.<br>
-Contacts, companies and deals stay current from the conversations you're already having.
+**Pantheon** is the unified inbox & CRM for Telegram, WhatsApp, iMessage and X/Twitter.<br>
+Your chats become a CRM that updates itself: contacts, companies and deals stay current from the conversations you're already having.
 
 <br>
 
@@ -25,6 +21,12 @@ Contacts, companies and deals stay current from the conversations you're already
 <a href="https://github.com/runpantheon/pantheon/discussions"><img alt="Discussions" src="https://img.shields.io/github/discussions/runpantheon/pantheon?color=111111" /></a>
 
 </div>
+
+<br>
+
+> [!NOTE]
+> **Pantheon is in private alpha.** Accounts are let in from the waitlist in turn: [request access](https://app.pantheon.run/register).<br>
+> The **MCP server, CLI and developer API** need a workspace with **Developer access** on a paid (**Pro**) plan. Pantheon turns Developer access on per workspace, and teams are being onboarded now: [ask for it](https://pantheon.run/contact).
 
 <br>
 
@@ -76,6 +78,8 @@ Contacts, companies and deals stay current from the conversations you're already
 <sub>Bring Pantheon into your AI tools and your terminal</sub>
 
 </div>
+
+<sub>Needs a Pro workspace with Developer access, see the note above.</sub>
 
 **No install:** paste `https://mcp.pantheon.run/mcp` into Claude or ChatGPT → Settings → Connectors.
 
