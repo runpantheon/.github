@@ -4,19 +4,25 @@
 
 # Pantheon
 
-<sub>The relationship OS that runs itself</sub>
+**The Unified Inbox & CRM** · Telegram, WhatsApp, iMessage & X/Twitter
 
 <br>
 
-Your chats become a CRM that updates itself, native across **Telegram**, **WhatsApp** and **iMessage**.<br>
-Contacts, pipelines and follow-ups stay current without anyone leaving the conversation.
+Your chats become a CRM that updates itself.<br>
+Contacts, companies and deals stay current from the conversations you're already having.
 
-<sub>
-<a href="https://pantheon.run">pantheon.run</a> &nbsp;·&nbsp;
-<a href="https://x.com/runpantheon">X</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/company/runpantheon">LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://t.me/+kI_2JfOEgNwxM2M5">Community</a>
-</sub>
+<br>
+
+<a href="https://app.pantheon.run"><b>Open the app</b></a> &nbsp;·&nbsp;
+<a href="https://pantheon.run/download"><b>Download for Mac</b></a> &nbsp;·&nbsp;
+<a href="https://docs.pantheon.run"><b>Docs</b></a> &nbsp;·&nbsp;
+<a href="https://www.npmjs.com/package/runpantheon"><b>npm</b></a>
+
+<br><br>
+
+<a href="https://www.npmjs.com/package/runpantheon"><img alt="npm: runpantheon" src="https://img.shields.io/npm/v/runpantheon?label=npm%20%C2%B7%20runpantheon&color=111111" /></a>
+<a href="https://docs.pantheon.run/guides/connect-ai-agent"><img alt="MCP server" src="https://img.shields.io/badge/MCP-mcp.pantheon.run-111111" /></a>
+<a href="https://github.com/runpantheon/pantheon/discussions"><img alt="Discussions" src="https://img.shields.io/github/discussions/runpantheon/pantheon?color=111111" /></a>
 
 </div>
 
@@ -34,14 +40,14 @@ Contacts, pipelines and follow-ups stay current without anyone leaving the conve
 <tr>
 <td width="50%" valign="top">
 
-**A CRM that updates itself**<br>
-<sub>Every contact, company and deal stays current from the conversations you're already having.</sub>
+**One inbox for every chat**<br>
+<sub>Telegram, WhatsApp, iMessage and X/Twitter side by side, with each person's history kept together across channels.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**One graph across channels**<br>
-<sub>Telegram, WhatsApp and iMessage in a single relationship system of record.</sub>
+**A CRM that updates itself**<br>
+<sub>Conversations build and update your contacts, companies and deals, so nobody keeps the CRM by hand.</sub>
 
 </td>
 </tr>
@@ -54,12 +60,46 @@ Contacts, pipelines and follow-ups stay current without anyone leaving the conve
 </td>
 <td width="50%" valign="top">
 
-**Built to connect**<br>
-<sub>A developer API and MCP server for wiring Pantheon into the rest of your stack.</sub>
+**Works with your AI tools**<br>
+<sub>Connect Claude, ChatGPT, Cursor and other AI tools to your Pantheon account through the MCP server, CLI and developer API.</sub>
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+## Quick install
+
+<sub>Bring Pantheon into your AI tools and your terminal</sub>
+
+</div>
+
+**No install:** paste `https://mcp.pantheon.run/mcp` into Claude or ChatGPT → Settings → Connectors.
+
+**Command line:**
+
+```sh
+curl -fsSL https://pantheon.run/install.sh | sh     # macOS / Linux
+irm https://pantheon.run/install.ps1 | iex          # Windows (PowerShell)
+npm install -g runpantheon                          # or with npm (Node 18+)
+```
+
+Then run `pantheon setup` to sign in and add Pantheon to the AI apps on your computer. See the [CLI on npm](https://www.npmjs.com/package/runpantheon) and the [setup guide](https://docs.pantheon.run/guides/connect-ai-agent).
+
+<br>
+
+<div align="center">
+
+## Get help
+
+</div>
+
+- **Something broken?** [Open a bug report](https://github.com/runpantheon/pantheon/issues/new?template=bug_report.yml).
+- **Want something?** [Request a feature](https://github.com/runpantheon/pantheon/issues/new?template=feature_request.yml) or [ask for a channel](https://github.com/runpantheon/pantheon/issues/new?template=channel_request.yml).
+- **A question or an idea?** [Start a discussion](https://github.com/runpantheon/pantheon/discussions) or join the [community](https://t.me/+kI_2JfOEgNwxM2M5).
 
 <br>
 
@@ -172,7 +212,9 @@ pipx install "git+https://github.com/runpantheon/ltui#subdirectory=ltui"    # or
 <br>
 
 <a href="https://pantheon.run">pantheon.run</a> &nbsp;·&nbsp;
-<a href="mailto:enterprise@pantheon.run">enterprise@pantheon.run</a>
+<a href="mailto:enterprise@pantheon.run">enterprise@pantheon.run</a> &nbsp;·&nbsp;
+<a href="https://x.com/runpantheon">X</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/company/runpantheon">LinkedIn</a>
 
 <br><br>
 
